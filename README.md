@@ -1,6 +1,6 @@
-![Zect](https://telegra.ph//file/4cd49d9752dc4f7f3c95b.jpg)
+![Hiro](https://telegra.ph/file/4036e600cc4b61dac9e14.jpg)
 
-# Zect
+# HIRO
 
 Just another telegram userbot, written in Python using the [Pyrogram](https://github.com/pyrogram/pyrogram) library
 
